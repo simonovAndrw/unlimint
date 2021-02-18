@@ -1,0 +1,4 @@
+{"orderId":2,"amount":1.23,"currency":"USD"}
+{"orderId":3,"amount":1.24,"currency":"EUR","comment":"оплата заказа","extra":"asd"}
+{"orderId":4,"amount":"1.23","currency":"USD"}
+{"orderId":5,"amount":1.2,"currency":2}
